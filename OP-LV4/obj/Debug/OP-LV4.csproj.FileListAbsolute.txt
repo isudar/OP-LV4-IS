@@ -1,0 +1,10 @@
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\bin\Debug\OP-LV4.exe.config
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\bin\Debug\Northwind.MDB
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\bin\Debug\OP-LV4.exe
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\bin\Debug\OP-LV4.pdb
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\obj\Debug\OP-LV4.csprojResolveAssemblyReference.cache
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\obj\Debug\OP_LV4.Form1.resources
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\obj\Debug\OP_LV4.Properties.Resources.resources
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\obj\Debug\OP-LV4.csproj.GenerateResource.Cache
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\obj\Debug\OP-LV4.exe
+c:\users\sudo\documents\visual studio 2015\Projects\OP-LV4\OP-LV4\obj\Debug\OP-LV4.pdb
